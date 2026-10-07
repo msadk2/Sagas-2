@@ -4,6 +4,7 @@
   <channel id="Magia247"><display-name>Saga Crepúsculo y Harry Potter</display-name></channel>
   <channel id="Matrix247"><display-name>Saga Matrix y Godzilla</display-name></channel>
   <channel id="SciFi247"><display-name>Saga Star Wars y Star Trek</display-name></channel>
+  <channel id="Comedia247"><display-name>Saga Astérix y Los Padres De</display-name></channel>
 
   <!-- PROGRAMACIÓN: MERCENARIOS E INDIANA -->
   <programme start="20261007131400 +0200" stop="20261007152900 +0200" channel="Accion247"><title lang="es">01 Indiana Jones - En busca del Arca perdida (1981)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
@@ -55,4 +56,3 @@
   <programme start="20261008144600 +0200" stop="20261008163600 +0200" channel="SciFi247"><title lang="es">12 Star Trek VI Aquel país desconocido (1991)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
   <programme start="20261008163600 +0200" stop="20261008185200 +0200" channel="SciFi247"><title lang="es">13 Star Wars El despertar de la fuerza (2015)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
   <programme start="20261008185200 +0200" stop="20261008205000 +0200" channel="SciFi247"><title lang="es">14 Star Trek La próxima generación (1994)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
-  <programme start="20261008205000 +0200" stop="20261008230300 +0200" channel="SciFi247"><title lang="es">15 Rogue One Una historia de Star Wars (2016)</title><desc lang="es">Emisión continua 24/7.</desc></programme>

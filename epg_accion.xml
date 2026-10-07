@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
   <channel id="Accion247"><display-name>Saga Mercenarios e Indiana Jones</display-name></channel>
+  <channel id="Magia247"><display-name>Saga Crepúsculo y Harry Potter</display-name></channel>
 
+  <!-- PROGRAMACIÓN: MERCENARIOS E INDIANA -->
   <programme start="20261007131400 +0200" stop="20261007152900 +0200" channel="Accion247"><title lang="es">01 Indiana Jones - En busca del Arca perdida (1981)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
   <programme start="20261007152900 +0200" stop="20261007171200 +0200" channel="Accion247"><title lang="es">02 Los Mercenarios (2010)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
   <programme start="20261007171200 +0200" stop="20261007191000 +0200" channel="Accion247"><title lang="es">03 Indiana Jones y el templo maldito (1984)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
@@ -11,4 +13,17 @@
   <programme start="20261008010600 +0200" stop="20261008030800 +0200" channel="Accion247"><title lang="es">07 Indiana Jones y el reino de la calavera de cristal (2008)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
   <programme start="20261008030800 +0200" stop="20261008043100 +0200" channel="Accion247"><title lang="es">08 Los Mercenarios 4 (2023)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
   <programme start="20261008043100 +0200" stop="20261008070500 +0200" channel="Accion247"><title lang="es">09 Indiana Jones y el dial del destino (2023)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+
+  <!-- PROGRAMACIÓN: CREPÚSCULO Y HARRY POTTER -->
+  <programme start="20261007133000 +0200" stop="20261007160200 +0200" channel="Magia247"><title lang="es">01 Harry Potter y la piedra filosofal (2001)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261007160200 +0200" stop="20261007180400 +0200" channel="Magia247"><title lang="es">02 Crepúsculo (2008)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261007180400 +0200" stop="20261007202600 +0200" channel="Magia247"><title lang="es">03 Harry Potter y el prisionero de Azkaban (2004)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261007202600 +0200" stop="20261007223600 +0200" channel="Magia247"><title lang="es">04 Crepúsculo Luna nueva (2009)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261007223600 +0200" stop="20261008005400 +0200" channel="Magia247"><title lang="es">05 Harry Potter y la Orden del Fénix (2007)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008005400 +0200" stop="20261008025800 +0200" channel="Magia247"><title lang="es">06 Crepúsculo. Eclipse (2010)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008025800 +0200" stop="20261008053100 +0200" channel="Magia247"><title lang="es">07 Harry Potter y el misterio del príncipe (2009)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008053100 +0200" stop="20261008072800 +0200" channel="Magia247"><title lang="es">08 Crepusculo Amanecer parte 1 (2011)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008072800 +0200" stop="20261008092300 +0200" channel="Magia247"><title lang="es">09 Crepusculo Amanecer Parte 2 (2012)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008092300 +0200" stop="20261008114900 +0200" channel="Magia247"><title lang="es">10 Harry Potter y las Reliquias de la Muerte - Parte 1 (2010)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008114900 +0200" stop="20261008135900 +0200" channel="Magia247"><title lang="es">11 Harry Potter y las Reliquias de la Muerte - Parte 2 (2011)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
 </tv>

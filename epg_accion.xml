@@ -2,6 +2,7 @@
 <tv>
   <channel id="Accion247"><display-name>Saga Mercenarios e Indiana Jones</display-name></channel>
   <channel id="Magia247"><display-name>Saga Crepúsculo y Harry Potter</display-name></channel>
+  <channel id="Matrix247"><display-name>Saga Matrix y Godzilla</display-name></channel>
 
   <!-- PROGRAMACIÓN: MERCENARIOS E INDIANA -->
   <programme start="20261007131400 +0200" stop="20261007152900 +0200" channel="Accion247"><title lang="es">01 Indiana Jones - En busca del Arca perdida (1981)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
@@ -26,4 +27,14 @@
   <programme start="20261008072800 +0200" stop="20261008092300 +0200" channel="Magia247"><title lang="es">09 Crepusculo Amanecer Parte 2 (2012)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
   <programme start="20261008092300 +0200" stop="20261008114900 +0200" channel="Magia247"><title lang="es">10 Harry Potter y las Reliquias de la Muerte - Parte 1 (2010)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
   <programme start="20261008114900 +0200" stop="20261008135900 +0200" channel="Magia247"><title lang="es">11 Harry Potter y las Reliquias de la Muerte - Parte 2 (2011)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+
+  <!-- PROGRAMACIÓN: MATRIX Y GODZILLA -->
+  <programme start="20261007134000 +0200" stop="20261007155600 +0200" channel="Matrix247"><title lang="es">01 Matrix (1999)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261007155600 +0200" stop="20261007181400 +0200" channel="Matrix247"><title lang="es">02 Matrix Reloaded (2003)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261007181400 +0200" stop="20261007202300 +0200" channel="Matrix247"><title lang="es">03 Matrix Revolutions (2003)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261007202300 +0200" stop="20261007225100 +0200" channel="Matrix247"><title lang="es">04 Matrix Resurrections (2021)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261007225100 +0200" stop="20261008005400 +0200" channel="Matrix247"><title lang="es">05 Godzilla (2014)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008005400 +0200" stop="20261008030600 +0200" channel="Matrix247"><title lang="es">06 Kong: La Isla Calavera (2017)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008030600 +0200" stop="20261008051800 +0200" channel="Matrix247"><title lang="es">07 Godzilla: Rey de los Monstruos (2019)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008051800 +0200" stop="20261008071100 +0200" channel="Matrix247"><title lang="es">08 Godzilla vs. Kong (2021)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
 </tv>

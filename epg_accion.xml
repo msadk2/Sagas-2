@@ -30,7 +30,7 @@
   <programme start="20261007175600 +0200" stop="20261007200800 +0200" channel="SciFi247"><title lang="es">Star Trek La película (1979)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
   <programme start="20261007200800 +0200" stop="20261007221200 +0200" channel="SciFi247"><title lang="es">El imperio contraataca (1980)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
 
-  <!-- PROGRAMACIÓN: ASTÉRIX CLAVADA AL DIRECTO DEL REPRODUCTOR -->
+  <!-- PROGRAMACIÓN: ASTÉRIX Y LOS PADRES DE (ORDEN DE CARPETA CLAVADO) -->
   <programme start="20261007220500 +0200" stop="20261007235400 +0200" channel="Saga Astérix y Los Padres De"><title lang="es">Astérix y Obélix contra César (1999)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
   <programme start="20261007235400 +0200" stop="20261008014200 +0200" channel="Saga Astérix y Los Padres De"><title lang="es">Los padres de ella (2000)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
   <programme start="20261008014200 +0200" stop="20261008033900 +0200" channel="Saga Astérix y Los Padres De"><title lang="es">Astérix en los Juegos Olímpicos (2008)</title><desc lang="es">Emisión continua 24/7.</desc></programme>

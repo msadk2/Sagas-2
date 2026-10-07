@@ -1,26 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-<channel id="Accion247"><display-name>Saga Mercenarios e Indiana Jones</display-name></channel>
-<channel id="Magia247"><display-name>Saga Crepúsculo y Harry Potter</display-name></channel>
-<channel id="Matrix247"><display-name>Saga Matrix y Godzilla</display-name></channel>
-<channel id="SciFi247"><display-name>Saga Star Wars y Star Trek</display-name></channel>
-<channel id="Saga Astérix y Los Padres De"><display-name>Saga Astérix y Los Padres De</display-name></channel>
-<programme start="20261007131400 +0200" stop="20261007152900 +0200" channel="Accion247"><title lang="es">Indiana Jones - En busca del Arca perdida (1981)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
-<programme start="20261007152900 +0200" stop="20261007171200 +0200" channel="Accion247"><title lang="es">Los Mercenarios (2010)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
-<programme start="20261007171200 +0200" stop="20261007191000 +0200" channel="Accion247"><title lang="es">Indiana Jones y el templo maldito (1984)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
-<programme start="20261007191000 +0200" stop="20261007205300 +0200" channel="Accion247"><title lang="es">Los Mercenarios 2 (2012)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
-<programme start="20261007205300 +0200" stop="20261007230000 +0200" channel="Accion247"><title lang="es">Indiana Jones y la última cruzada (1989)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
-<programme start="20261007133000 +0200" stop="20261007160200 +0200" channel="Magia247"><title lang="es">Harry Potter y la piedra filosofal (2001)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
-<programme start="20261007160200 +0200" stop="20261007180400 +0200" channel="Magia247"><title lang="es">Crepúsculo (2008)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
-<programme start="20261007180400 +0200" stop="20261007202600 +0200" channel="Magia247"><title lang="es">Harry Potter y el prisionero de Azkaban (2004)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
-<programme start="20261007202600 +0200" stop="20261007223600 +0200" channel="Magia247"><title lang="es">Crepúsculo Luna nueva (2009)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
-<programme start="20261007140000 +0200" stop="20261007160000 +0200" channel="Matrix247"><title lang="es">Shin Godzilla (2016)<desc lang="es">Emisión continua 24/7.</desc></programme>
-<programme start="20261007160000 +0200" stop="20261007181600 +0200" channel="Matrix247"><title lang="es">Matrix (1999)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
-<programme start="20261007181600 +0200" stop="20261007202800 +0200" channel="Matrix247"><title lang="es">Godzilla Rey de los Monstruos (2019)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
-<programme start="20261007202800 +0200" stop="20261007224600 +0200" channel="Matrix247"><title lang="es">Matrix Reloaded (2003)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
-<programme start="20261007155500 +0200" stop="20261007175600 +0200" channel="SciFi247"><title lang="es">La guerra de las galaxias (1977)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
-<programme start="20261007175600 +0200" stop="20261007200800 +0200" channel="SciFi247"><title lang="es">Star Trek La película (1979)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
-<programme start="20261007200800 +0200" stop="20261007221200 +0200" channel="SciFi247"><title lang="es">El imperio contraataca (1980)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
-<programme start="20261007183000 +0200" stop="20261007201800 +0200" channel="Saga Astérix y Los Padres De"><title lang="es">Ahora los padres son ellos (2010)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
-<programme start="20261007201800 +0200" stop="20261007220800 +0200" channel="Saga Astérix y Los Padres De"><title lang="es">Astérix y Obélix Al servicio de su majestad (2012)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <channel id="Accion247"><display-name>Saga Mercenarios e Indiana Jones</display-name></channel>
+  <channel id="Magia247"><display-name>Saga Crepúsculo y Harry Potter</display-name></channel>
+  <channel id="Matrix247"><display-name>Saga Matrix y Godzilla</display-name></channel>
+  <channel id="SciFi247"><display-name>Saga Star Wars y Star Trek</display-name></channel>
+  <channel id="Saga Astérix y Los Padres De"><display-name>Saga Astérix y Los Padres De</display-name></channel>
+
+  <!-- PROGRAMACIÓN: MERCENARIOS E INDIANA -->
+  <programme start="20261007131400 +0200" stop="20261007152900 +0200" channel="Accion247"><title lang="es">Indiana Jones - En busca del Arca perdida (1981)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261007152900 +0200" stop="20261007171200 +0200" channel="Accion247"><title lang="es">Los Mercenarios (2010)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261007171200 +0200" stop="20261007191000 +0200" channel="Accion247"><title lang="es">Indiana Jones y el templo maldito (1984)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261007191000 +0200" stop="20261007205300 +0200" channel="Accion247"><title lang="es">Los Mercenarios 2 (2012)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261007205300 +0200" stop="20261007230000 +0200" channel="Accion247"><title lang="es">Indiana Jones y la última cruzada (1989)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+
+  <!-- PROGRAMACIÓN: CREPÚSCULO Y HARRY POTTER -->
+  <programme start="20261007133000 +0200" stop="20261007160200 +0200" channel="Magia247"><title lang="es">Harry Potter y la piedra filosofal (2001)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261007160200 +0200" stop="20261007180400 +0200" channel="Magia247"><title lang="es">Crepúsculo (2008)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261007180400 +0200" stop="20261007202600 +0200" channel="Magia247"><title lang="es">Harry Potter y el prisionero de Azkaban (2004)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261007202600 +0200" stop="20261007223600 +0200" channel="Magia247"><title lang="es">Crepúsculo Luna nueva (2009)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+
+  <!-- PROGRAMACIÓN: MATRIX Y GODZILLA (CON ETIQUETA CORREGIDA) -->
+  <programme start="20261007140000 +0200" stop="20261007160000 +0200" channel="Matrix247"><title lang="es">Shin Godzilla (2016)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261007160000 +0200" stop="20261007181600 +0200" channel="Matrix247"><title lang="es">Matrix (1999)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261007181600 +0200" stop="20261007202800 +0200" channel="Matrix247"><title lang="es">Godzilla Rey de los Monstruos (2019)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261007202800 +0200" stop="20261007224600 +0200" channel="Matrix247"><title lang="es">Matrix Reloaded (2003)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+
+  <!-- PROGRAMACIÓN: STAR WARS Y STAR TREK -->
+  <programme start="20261007155500 +0200" stop="20261007175600 +0200" channel="SciFi247"><title lang="es">La guerra de las galaxias (1977)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261007175600 +0200" stop="20261007200800 +0200" channel="SciFi247"><title lang="es">Star Trek La película (1979)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261007200800 +0200" stop="20261007221200 +0200" channel="SciFi247"><title lang="es">El imperio contraataca (1980)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+
+  <!-- PROGRAMACIÓN: ASTÉRIX SINCRONIZADA PARA LA NOCHE Y MAÑANA -->
+  <programme start="20261007214000 +0200" stop="20261007232900 +0200" channel="Saga Astérix y Los Padres De"><title lang="es">Astérix y Obélix Misión Cleopatra (2002)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261007232900 +0200" stop="20261008010700 +0200" channel="Saga Astérix y Los Padres De"><title lang="es">Ahora los padres son ellos (2010)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008010700 +0200" stop="20261008025700 +0200" channel="Saga Astérix y Los Padres De"><title lang="es">Astérix y Obélix Al servicio de su majestad (2012)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008025700 +0200" stop="20261008044600 +0200" channel="Saga Astérix y Los Padres De"><title lang="es">Astérix y Obélix contra César (1999)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008044600 +0200" stop="20261008063400 +0200" channel="Saga Astérix y Los Padres De"><title lang="es">Los padres de ella (2000)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
 </tv>

@@ -1,14 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="Accion247"><display-name>Saga Mercenarios e Indiana Jones</display-name></channel>
+  <channel id="Clasicos.247"><display-name>Cine Clásico 24/7</display-name></channel>
+  <channel id="Marvel 24/7"><display-name>Marvel 24/7</display-name></channel>
 
-  <programme start="20261007133300 +0200" stop="20261007154800 +0200" channel="Accion247"><title lang="es">01 Indiana Jones - En busca del Arca perdida (1981)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
-  <programme start="20261007154800 +0200" stop="20261007173100 +0200" channel="Accion247"><title lang="es">02 Los Mercenarios (2010)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
-  <programme start="20261007173100 +0200" stop="20261007192900 +0200" channel="Accion247"><title lang="es">03 Indiana Jones y el templo maldito (1984)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
-  <programme start="20261007192900 +0200" stop="20261007211200 +0200" channel="Accion247"><title lang="es">04 Los Mercenarios 2 (2012)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
-  <programme start="20261007211200 +0200" stop="20261007231900 +0200" channel="Accion247"><title lang="es">05 Indiana Jones y la última cruzada (1989)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
-  <programme start="20261007231900 +0200" stop="20261008012500 +0200" channel="Accion247"><title lang="es">06 Los Mercenarios 3 (2014)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
-  <programme start="20261008012500 +0200" stop="20261008032700 +0200" channel="Accion247"><title lang="es">07 Indiana Jones y el reino de la calavera de cristal (2008)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
-  <programme start="20261008032700 +0200" stop="20261008045000 +0200" channel="Accion247"><title lang="es">08 Los Mercenarios 4 (2023)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
-  <programme start="20261008045000 +0200" stop="20261008072400 +0200" channel="Accion247"><title lang="es">09 Indiana Jones y el dial del destino (2023)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
-</tv>
+  <!-- PROGRAMACIÓN: CINE CLÁSICO -->
+  <programme start="20261007121000 +0200" stop="20261007144400 +0200" channel="Clasicos.247"><title lang="es">55 días en Pekín (1963)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261007144400 +0200" stop="20261007163400 +0200" channel="Clasicos.247"><title lang="es">Almas en la hoguera (1949)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261007163400 +0200" stop="20261007180900 +0200" channel="Clasicos.247"><title lang="es">Ana Karenina (1935)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261007180900 +0200" stop="20261007203600 +0200" channel="Clasicos.247"><title lang="es">Apocalypse Now (1979)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261007203600 +0200" stop="20261008000800 +0200" channel="Clasicos.247"><title lang="es">Ben-Hur (1959)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008000800 +0200" stop="20261008011900 +0200" channel="Clasicos.247"><title lang="es">Buster Keaton El héroe del río (1928)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008011900 +0200" stop="20261008033600 +0200" channel="Clasicos.247"><title lang="es">Candilejas (1952)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008033600 +0200" stop="20261008051800 +0200" channel="Clasicos.247"><title lang="es">Casablanca (1943)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008051800 +0200" stop="20261008073400 +0200" channel="Clasicos.247"><title lang="es">Con la muerte en los talones (1959)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008073400 +0200" stop="20261008091200 +0200" channel="Clasicos.247"><title lang="es">Cuatro noches de boda (1969)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008091200 +0200" stop="20261008105100 +0200" channel="Clasicos.247"><title lang="es">Deprisa, deprisa (1981)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008105100 +0200" stop="20261008123200 +0200" channel="Clasicos.247"><title lang="es">Discordias a la carta (1995)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008123200 +0200" stop="20261008150200 +0200" channel="Clasicos.247"><title lang="es">Doce del patíbulo (1967)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008150200 +0200" stop="20261008162000 +0200" channel="Clasicos.247"><title lang="es">El Hotel De Los Líos (1938)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008162000 +0200" stop="20261008172800 +0200" channel="Clasicos.247"><title lang="es">El chico (1921)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008172800 +0200" stop="20261008192900 +0200" channel="Clasicos.247"><title lang="es">El expreso de medianoche (1978)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008192900 +0200" stop="20261008213500 +0200" channel="Clasicos.247"><title lang="es">El gran dictador (1940)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008213500 +0200" stop="20261008225000 +0200" channel="Clasicos.247"><title lang="es">El maquinista de La General (1926)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008225000 +0200" stop="20261009010300 +0200" channel="Clasicos.247"><title lang="es">El tren (1964)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261009010300 +0200" stop="20261009030100 +0200" channel="Clasicos.247"><title lang="es">Furia de Titanes (1981)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261009030100 +0200" stop="20261009054600 +0200" channel="Clasicos.247"><title lang="es">Hasta que llegó su hora (1968)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261009054600 +0200" stop="20261009074500 +0200" channel="Clasicos.247"><title lang="es">Justicia para todos (1979)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261009074500 +0200" stop="20261009091900 +0200" channel="Clasicos.247"><title lang="es">La Mosca (1958)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261009091900 +0200" stop="20261009111600 +0200" channel="Clasicos.247"><title lang="es">La batalla de Anzio (1968)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261009111600 +0200" stop="20261009132800 +0200" channel="Clasicos.247"><title lang="es">La batalla de Inglaterra (1969)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261009132800 +0200" stop="20261009161500 +0200" channel="Clasicos.247"><title lang="es">La batalla de las Ardenas (1965)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261009161500 +0200" stop="20261009182700 +0200" channel="Clasicos.247"><title lang="es">La cruz de hierro (1977)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261009182700 +0200" stop="20261009203900 +0200" channel="Clasicos.247"><title lang="es">La evasión (1960)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261009203900 +0200" stop="20261009223100 +0200" channel="Clasicos.247"><title lang="es">La fuga de Alcatraz (1979)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261009223100 +0200" stop="20261010000500 +0200" channel="Clasicos.247"><title lang="es">La tienda de los horrores (1986)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261010000500 +0200" stop="20261010030000 +0200" channel="Clasicos.247"><title lang="es">La vuelta al mundo en 80 días (1956)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261010030000 +0200" stop="20261010064200 +0200" channel="Clasicos.247"><title lang="es">Lawrence de Arabia (1962)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261010064200 +0200" stop="20261010104000 +0200" channel="Clasicos.247"><title lang="es">Lo que el viento se llevó (1939)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261010104000 +0200" stop="20261010120000 +0200" channel="Clasicos.247"><title lang="es">Los Hermanos Marx en el Oeste (1940)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261010120000 +0200" stop="20261010135600 +0200" channel="Clasicos.247"><title lang="es">Los Vikingos (1958)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261010135600 +0200" stop="20261010153100 +0200" channel="Clasicos.247"><title lang="es">Los guerrilleros (1962)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261010153100 +0200" stop="20261010174200 +0200" channel="Clasicos.247"><title lang="es">Los héroes de Telemark (1965)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261010174200 +0200" stop="20261010195700 +0200" channel="Clasicos.247"><title lang="es">Los puentes de Madison (1995)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261010195700 +0200" stop="20261010212400 +0200" channel="Clasicos.247"><title lang="es">Luces de la ciudad (1931)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261010212400 +0200" stop="20261010232700 +0200" channel="Clasicos.247"><title lang="es">Morituri (1965)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261010232700 +0200" stop="20261011011700 +0200" channel="Clasicos.247"><title lang="es">Que El Cielo La Juzgue (1945)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261011011700 +0200" stop="20261011033800 +0200" channel="Clasicos.247"><title lang="es">Rio Bravo (1959)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261011033800 +0200" stop="20261011053100 +0200" channel="Clasicos.247"><title lang="es">Sangre y arena (1989)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261011053100 +0200" stop="20261011065900 +0200" channel="Clasicos.247"><title lang="es">Senderos De Gloria (1957)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261011065900 +0200" stop="20261011082600 +0200" channel="Clasicos.247"><title lang="es">Tiempos modernos (1936)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261011082600 +0200" stop="20261011101100 +0200" channel="Clasicos.247"><title lang="es">Un rey en Nueva York (1957)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261011101100 +0200" stop="20261011115100 +0200" channel="Clasicos.247"><title lang="es">El derecho a nacer (1966)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+
+  <!-- PROGRAMACIÓN: MARVEL -->
+  <programme start="20261007131200 +0200" stop="20261007150900 +0200" channel="Marvel 24/7"><title lang="es">Ant-Man (2015)</title><desc lang="es">Emisión continua 24/7.</desc></programme>

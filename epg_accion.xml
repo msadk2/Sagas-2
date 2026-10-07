@@ -3,6 +3,7 @@
   <channel id="Accion247"><display-name>Saga Mercenarios e Indiana Jones</display-name></channel>
   <channel id="Magia247"><display-name>Saga Crepúsculo y Harry Potter</display-name></channel>
   <channel id="Matrix247"><display-name>Saga Matrix y Godzilla</display-name></channel>
+  <channel id="SciFi247"><display-name>Saga Star Wars y Star Trek</display-name></channel>
 
   <!-- PROGRAMACIÓN: MERCENARIOS E INDIANA -->
   <programme start="20261007131400 +0200" stop="20261007152900 +0200" channel="Accion247"><title lang="es">01 Indiana Jones - En busca del Arca perdida (1981)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
@@ -28,7 +29,7 @@
   <programme start="20261008092300 +0200" stop="20261008114900 +0200" channel="Magia247"><title lang="es">10 Harry Potter y las Reliquias de la Muerte - Parte 1 (2010)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
   <programme start="20261008114900 +0200" stop="20261008135900 +0200" channel="Magia247"><title lang="es">11 Harry Potter y las Reliquias de la Muerte - Parte 2 (2011)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
 
-  <!-- PROGRAMACIÓN: MATRIX Y GODZILLA (ORDEN REAL CORREGIDO) -->
+  <!-- PROGRAMACIÓN: MATRIX Y GODZILLA -->
   <programme start="20261007140000 +0200" stop="20261007160000 +0200" channel="Matrix247"><title lang="es">01 Shin Godzilla (2016)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
   <programme start="20261007160000 +0200" stop="20261007181600 +0200" channel="Matrix247"><title lang="es">02 Matrix (1999)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
   <programme start="20261007181600 +0200" stop="20261007202800 +0200" channel="Matrix247"><title lang="es">03 Godzilla Rey de los Monstruos (2019)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
@@ -38,4 +39,20 @@
   <programme start="20261008024800 +0200" stop="20261008043300 +0200" channel="Matrix247"><title lang="es">07 Godzilla Minus One (2023)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
   <programme start="20261008043300 +0200" stop="20261008070100 +0200" channel="Matrix247"><title lang="es">08 Matrix Resurrections (2021)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
   <programme start="20261008070100 +0200" stop="20261008085600 +0200" channel="Matrix247"><title lang="es">09 Godzilla y Kong El nuevo imperio (2024)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
-</tv>
+
+  <!-- PROGRAMACIÓN: STAR WARS Y STAR TREK -->
+  <programme start="20261007155500 +0200" stop="20261007175600 +0200" channel="SciFi247"><title lang="es">01 La guerra de las galaxias (1977)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261007175600 +0200" stop="20261007200800 +0200" channel="SciFi247"><title lang="es">02 Star Trek La película (1979)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261007200800 +0200" stop="20261007221200 +0200" channel="SciFi247"><title lang="es">03 El imperio contraataca (1980)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261007221200 +0200" stop="20261008000500 +0200" channel="SciFi247"><title lang="es">04 Star Trek II La ira de Khan (1982)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008000500 +0200" stop="20261008021600 +0200" channel="SciFi247"><title lang="es">05 El retorno del Jedi (1983)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008021600 +0200" stop="20261008040100 +0200" channel="SciFi247"><title lang="es">06 Star Trek III En busca de Spock (1984)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008040100 +0200" stop="20261008061700 +0200" channel="SciFi247"><title lang="es">07 La guerra de las galaxias. Episodio I La amenaza fantasma (1999)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008061700 +0200" stop="20261008081700 +0200" channel="SciFi247"><title lang="es">08 Star Trek IV. Misión salvar la Tierra (1986)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008081700 +0200" stop="20261008103900 +0200" channel="SciFi247"><title lang="es">09 La guerra de las galaxias. Episodio II El ataque de los clones (2002)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008103900 +0200" stop="20261008122600 +0200" channel="SciFi247"><title lang="es">10 Star Trek V La última frontera (1989)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008122600 +0200" stop="20261008144600 +0200" channel="SciFi247"><title lang="es">11 La guerra de las galaxias. Episodio III La venganza de los Sith (2005)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008144600 +0200" stop="20261008163600 +0200" channel="SciFi247"><title lang="es">12 Star Trek VI Aquel país desconocido (1991)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008163600 +0200" stop="20261008185200 +0200" channel="SciFi247"><title lang="es">13 Star Wars El despertar de la fuerza (2015)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008185200 +0200" stop="20261008205000 +0200" channel="SciFi247"><title lang="es">14 Star Trek La próxima generación (1994)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
+  <programme start="20261008205000 +0200" stop="20261008230300 +0200" channel="SciFi247"><title lang="es">15 Rogue One Una historia de Star Wars (2016)</title><desc lang="es">Emisión continua 24/7.</desc></programme>

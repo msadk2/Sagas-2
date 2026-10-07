@@ -4,7 +4,7 @@
   <channel id="Magia247"><display-name>Saga Crepúsculo y Harry Potter</display-name></channel>
   <channel id="Matrix247"><display-name>Saga Matrix y Godzilla</display-name></channel>
   <channel id="SciFi247"><display-name>Saga Star Wars y Star Trek</display-name></channel>
-  <channel id="Comedia247"><display-name>Saga Astérix y Los Padres De</display-name></channel>
+  <channel id="Saga Astérix y Los Padres De"><display-name>Saga Astérix y Los Padres De</display-name></channel>
 
   <!-- PROGRAMACIÓN: MERCENARIOS E INDIANA -->
   <programme start="20261007131400 +0200" stop="20261007152900 +0200" channel="Accion247"><title lang="es">01 Indiana Jones - En busca del Arca perdida (1981)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
